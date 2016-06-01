@@ -3,7 +3,9 @@
 
 ## 配置
 1.添加LHScore到你的项目中
+
 2.如果你的项目不是ARC, `LHScore.m`需要添加`-fobjc-arc`
+
 3.添加`CFNetwork`, `SystemConfiguration`, and `StoreKit frameworks`到你的项目中
 
 ## 开发阶段
